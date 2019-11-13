@@ -3,7 +3,7 @@ Project to simulate a distributed file system following EXT3
 
 **Authors: 
 Vinícius Vaz,
-Nathan Marcelino**
+[Nathan Marcelino](https://github.com/nathan-vm/RNAperceptron)**
 
 ## STEP 1:
 **GOAL:**
